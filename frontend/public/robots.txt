@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/login
+Disallow: /cart
+Disallow: /checkout
+
+Sitemap: https://florax-sikkim.preview.emergentagent.com/sitemap.xml
