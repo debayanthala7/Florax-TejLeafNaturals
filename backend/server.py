@@ -577,7 +577,7 @@ SEED_PRODUCTS = [
         "unit": "500 g",
         "short_description": "Rare wild Putka honey from cliff-nesting Himalayan bees.",
         "description": "Foraged once a year from Apis dorsata laboriosa colonies in the upper Sikkim cliffs. Dark, mineral-rich, with rhododendron undertones and a faint psychotropic warmth in the throat — the legendary 'mad honey' of the eastern Himalaya. Limited harvest.",
-        "image": "https://scontent.fccu16-1.fna.fbcdn.net/v/t39.30808-6/481779576_9154370537944811_2255668117514916602_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Amgp4Z3rbLkQ7kNvwHF0XCj&_nc_oc=Adr3hLPuM8MaRdbsZqYsA2J_DNVdvGYAp7VTTkIAIF0VkRnWgA_DysX7iZjlK1MLsF8&_nc_zt=23&_nc_ht=scontent.fccu16-1.fna&_nc_gid=Xeh0Bg7xEVNyJ1jSUrWBgA&_nc_ss=7b289&oh=00_Af_8Ncvabg8YnHNs63l4HCYHBhff7SNrUBeqT2c4QaYgZA&oe=6A219A96",
+        "image": "https://i0.wp.com/tasteofbhutan.com/wp-content/uploads/2021/10/Melipona_Bees_hive.jpeg?resize=768%2C512&ssl=1",
         "stock": 0,
         "featured": True,
     },
